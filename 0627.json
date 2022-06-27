@@ -18,6 +18,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
+{"key":"mjxq_spider","name":"美剧星球(SP)","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
     {
       "key": "spider_IKan",
       "name": "✨爱看(🐞)",
