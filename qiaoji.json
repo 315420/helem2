@@ -1,6 +1,6 @@
 {
 // spider
-"spider":"",
+"spider":"https://315420.github.io/helem2/qiaoji711.jar",
 
 // 直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovLzl4aTRvLnRrL3N1Yi9teXR2LnR4dA=="]}]}],
