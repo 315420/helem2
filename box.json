@@ -1,7 +1,7 @@
   // 配置地址 --> clan://localhost/TVBox/box.json
 
 {
-"spider":"clan://TVBox/jar/box.jar",
+"spider":"https://315420.github.io/helem2/box.jar",
 
 //直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":[
